@@ -35,6 +35,14 @@
       29,
       30,
       31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
       0
     ],
     "@theme/DocLegacyItem": [
@@ -69,6 +77,14 @@
       29,
       30,
       31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
       0
     ],
     "@theme/NotFound": [
@@ -103,850 +119,1058 @@
       29,
       30,
       31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
       0
     ],
     "/Users/yangshun/Developer/tech-interview-handbook/website/src/pages/index.js": [
       0,
       1
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/array.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/introduction.md": [
       0,
       2
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/binary.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/array.md": [
       0,
       3
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/dynamic-programming.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/binary.md": [
       0,
       4
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/geometry.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/dynamic-programming.md": [
       0,
       5
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/graph.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/geometry.md": [
       0,
       6
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/hash-table.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/graph.md": [
       0,
       7
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/heap.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/hash-table.md": [
       0,
       8
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/interval.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/heap.md": [
       0,
       9
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/linked-list.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/interval.md": [
       0,
       10
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/math.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/linked-list.md": [
       0,
       11
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/matrix.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/math.md": [
       0,
       12
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/oop.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/matrix.md": [
       0,
       13
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/permutation.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/oop.md": [
       0,
       14
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/queue.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/permutation.md": [
       0,
       15
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/README.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/queue.md": [
       0,
       16
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/sorting-searching.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/recursion.md": [
       0,
       17
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/stack.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/sorting-searching.md": [
       0,
       18
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/string.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/stack.md": [
       0,
       19
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/topics.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/string.md": [
       0,
       20
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/tree.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/topics.md": [
       0,
       21
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/behavioral.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/tree.md": [
       0,
       22
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/cheatsheet.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/algorithms/trie.md": [
       0,
       23
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/cover-letter.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/cheatsheet.md": [
       0,
       24
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/interview-formats.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/coding-round-overview.md": [
       0,
       25
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/introduction.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/coding-round-phases.md": [
       0,
       26
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/negotiation.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/cover-letter.md": [
       0,
       27
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/psychological-tricks.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/how-to-apply.md": [
       0,
       28
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/questions-to-ask.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/interview-stages.md": [
       0,
       29
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/resume.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/introduction.md": [
       0,
       30
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/contents/self-introduction.md": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/mock-interviews.md": [
       0,
       31
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-407.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/negotiation.md": [
+      0,
       32
     ],
-    "main": [
-      65,
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/picking-a-language.md": [
+      0,
       33
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-pages/tech-interview-handbook-0f9.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/psychological-tricks.md": [
+      0,
       34
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-array-45b.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/questions-to-ask.md": [
+      0,
       35
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-binary-2fd.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/resume.md": [
+      0,
       36
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-dynamic-programming-eef.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/self-introduction.md": [
+      0,
       37
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-geometry-8b8.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/star-framework.md": [
+      0,
       38
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-graph-b75.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/contents/study-and-practice.md": [
+      0,
       39
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-hash-table-a32.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-407.json": [
       40
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-heap-536.json": [
+    "main": [
+      81,
       41
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-interval-b37.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-pages/tech-interview-handbook-0f9.json": [
       42
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-linked-list-c15.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-algorithms-introduction-1c9.json": [
       43
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-math-40e.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-array-45b.json": [
       44
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-matrix-bc2.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-binary-2fd.json": [
       45
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-oop-2fc.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-dynamic-programming-eef.json": [
       46
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-permutation-147.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-geometry-8b8.json": [
       47
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-queue-6b5.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-graph-b75.json": [
       48
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-readme-979.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-hash-table-a32.json": [
       49
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-sorting-searching-7ea.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-heap-536.json": [
       50
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-stack-021.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-interval-b37.json": [
       51
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-string-522.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-linked-list-c15.json": [
       52
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-topics-0fc.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-math-40e.json": [
       53
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-tree-dd9.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-matrix-bc2.json": [
       54
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-behavioral-b34.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-oop-2fc.json": [
       55
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-cheatsheet-1b7.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-permutation-147.json": [
       56
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-cover-letter-ca1.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-queue-6b5.json": [
       57
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-interview-formats-7ea.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-recursion-c3f.json": [
       58
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-introduction-214.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-sorting-searching-7ea.json": [
       59
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-negotiation-1b3.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-stack-021.json": [
       60
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-psychological-tricks-77c.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-string-522.json": [
       61
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-questions-to-ask-84a.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-topics-0fc.json": [
       62
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-resume-48e.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-tree-dd9.json": [
       63
     ],
-    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-self-introduction-fb8.json": [
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-algorithms-trie-5a9.json": [
       64
     ],
-    "runtime~main": [
-      33,
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-cheatsheet-1b7.json": [
       65
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-coding-round-overview-684.json": [
+      66
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-coding-round-phases-958.json": [
+      67
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-cover-letter-ca1.json": [
+      68
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-how-to-apply-768.json": [
+      69
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-interview-stages-bd3.json": [
+      70
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-introduction-214.json": [
+      71
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-mock-interviews-e9b.json": [
+      72
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-negotiation-1b3.json": [
+      73
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-picking-a-language-c9c.json": [
+      74
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-psychological-tricks-77c.json": [
+      75
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-questions-to-ask-84a.json": [
+      76
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-resume-48e.json": [
+      77
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-self-introduction-fb8.json": [
+      78
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-star-framework-52c.json": [
+      79
+    ],
+    "/Users/yangshun/Developer/tech-interview-handbook/website/.docusaurus/docusaurus-plugin-content-docs/tech-interview-handbook-study-and-practice-496.json": [
+      80
+    ],
+    "runtime~main": [
+      41,
+      81
     ]
   },
   "assets": {
     "0": {
       "css": [
         {
-          "file": "vendors.2cd274a9883ed2bb57a4.css",
-          "hash": "2cd274a9883ed2bb57a4",
-          "publicPath": "/tech-interview-handbook/vendors.2cd274a9883ed2bb57a4.css"
+          "file": "vendors.123f72c298a0b0b66c88.css",
+          "hash": "123f72c298a0b0b66c88",
+          "publicPath": "/tech-interview-handbook/vendors.123f72c298a0b0b66c88.css"
         }
       ],
       "js": [
         {
-          "file": "vendors.2cd274a9883ed2bb57a4.js",
-          "hash": "2cd274a9883ed2bb57a4",
-          "publicPath": "/tech-interview-handbook/vendors.2cd274a9883ed2bb57a4.js"
+          "file": "vendors.123f72c298a0b0b66c88.js",
+          "hash": "123f72c298a0b0b66c88",
+          "publicPath": "/tech-interview-handbook/vendors.123f72c298a0b0b66c88.js"
         }
       ]
     },
     "1": {
       "css": [
         {
-          "file": "component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.abb61674d331a7c5bf63.css",
-          "hash": "abb61674d331a7c5bf63",
-          "publicPath": "/tech-interview-handbook/component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.abb61674d331a7c5bf63.css"
+          "file": "component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.48dce5805ec9aa5c3209.css",
+          "hash": "48dce5805ec9aa5c3209",
+          "publicPath": "/tech-interview-handbook/component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.48dce5805ec9aa5c3209.css"
         }
       ],
       "js": [
         {
-          "file": "component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.abb61674d331a7c5bf63.js",
-          "hash": "abb61674d331a7c5bf63",
-          "publicPath": "/tech-interview-handbook/component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.abb61674d331a7c5bf63.js"
+          "file": "component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.48dce5805ec9aa5c3209.js",
+          "hash": "48dce5805ec9aa5c3209",
+          "publicPath": "/tech-interview-handbook/component---users-yangshun-developer-tech-interview-handbook-website-src-pages-index-js-388-1ed.48dce5805ec9aa5c3209.js"
         }
       ]
     },
     "2": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-array-87-f-318.f2c8b337cdfeaa5cfcad.js",
-          "hash": "f2c8b337cdfeaa5cfcad",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-array-87-f-318.f2c8b337cdfeaa5cfcad.js"
+          "file": "content---tech-interview-handbook-algorithms-algorithms-introduction-995-59f.15120cd4e96873d00c14.js",
+          "hash": "15120cd4e96873d00c14",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-algorithms-introduction-995-59f.15120cd4e96873d00c14.js"
         }
       ]
     },
     "3": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-binary-47-f-167.a7e3a46502b3162052ac.js",
-          "hash": "a7e3a46502b3162052ac",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-binary-47-f-167.a7e3a46502b3162052ac.js"
+          "file": "content---tech-interview-handbook-algorithms-array-87-f-318.e46354c1f7b8a13dfcca.js",
+          "hash": "e46354c1f7b8a13dfcca",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-array-87-f-318.e46354c1f7b8a13dfcca.js"
         }
       ]
     },
     "4": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-dynamic-programming-54-a-f98.920b17a8b7f99be24bc5.js",
-          "hash": "920b17a8b7f99be24bc5",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-dynamic-programming-54-a-f98.920b17a8b7f99be24bc5.js"
+          "file": "content---tech-interview-handbook-algorithms-binary-47-f-167.2bb4005a31151ba989b9.js",
+          "hash": "2bb4005a31151ba989b9",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-binary-47-f-167.2bb4005a31151ba989b9.js"
         }
       ]
     },
     "5": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-geometry-483-13e.82e21b9701d519d816c3.js",
-          "hash": "82e21b9701d519d816c3",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-geometry-483-13e.82e21b9701d519d816c3.js"
+          "file": "content---tech-interview-handbook-algorithms-dynamic-programming-54-a-f98.5222eece2d89df5f4361.js",
+          "hash": "5222eece2d89df5f4361",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-dynamic-programming-54-a-f98.5222eece2d89df5f4361.js"
         }
       ]
     },
     "6": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-grapha-39-240.0076fd593988a4747667.js",
-          "hash": "0076fd593988a4747667",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-grapha-39-240.0076fd593988a4747667.js"
+          "file": "content---tech-interview-handbook-algorithms-geometry-483-13e.17a50bc024014fbe4c23.js",
+          "hash": "17a50bc024014fbe4c23",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-geometry-483-13e.17a50bc024014fbe4c23.js"
         }
       ]
     },
     "7": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-hash-tablec-4-a-bda.65e46a7d2dd5ed5f1f5e.js",
-          "hash": "65e46a7d2dd5ed5f1f5e",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-hash-tablec-4-a-bda.65e46a7d2dd5ed5f1f5e.js"
+          "file": "content---tech-interview-handbook-algorithms-grapha-39-240.ab749578425a9f0cc55a.js",
+          "hash": "ab749578425a9f0cc55a",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-grapha-39-240.ab749578425a9f0cc55a.js"
         }
       ]
     },
     "8": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-heape-87-53e.102c50b578fed22bf3cd.js",
-          "hash": "102c50b578fed22bf3cd",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-heape-87-53e.102c50b578fed22bf3cd.js"
+          "file": "content---tech-interview-handbook-algorithms-hash-tablec-4-a-bda.71a800e230fc242265ca.js",
+          "hash": "71a800e230fc242265ca",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-hash-tablec-4-a-bda.71a800e230fc242265ca.js"
         }
       ]
     },
     "9": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-interval-964-ea9.d87e94e3d687a8f5cd16.js",
-          "hash": "d87e94e3d687a8f5cd16",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-interval-964-ea9.d87e94e3d687a8f5cd16.js"
+          "file": "content---tech-interview-handbook-algorithms-heape-87-53e.f98073fffedb4b5343a1.js",
+          "hash": "f98073fffedb4b5343a1",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-heape-87-53e.f98073fffedb4b5343a1.js"
         }
       ]
     },
     "10": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-linked-list-0-fc-2b6.3a1ef5ea5d44006cd49a.js",
-          "hash": "3a1ef5ea5d44006cd49a",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-linked-list-0-fc-2b6.3a1ef5ea5d44006cd49a.js"
+          "file": "content---tech-interview-handbook-algorithms-interval-964-ea9.e7847c51a541c1f2bd23.js",
+          "hash": "e7847c51a541c1f2bd23",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-interval-964-ea9.e7847c51a541c1f2bd23.js"
         }
       ]
     },
     "11": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-math-3-ba-1f3.3e0aeea77f407b940554.js",
-          "hash": "3e0aeea77f407b940554",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-math-3-ba-1f3.3e0aeea77f407b940554.js"
+          "file": "content---tech-interview-handbook-algorithms-linked-list-0-fc-2b6.b020cd35dacddee9ec0f.js",
+          "hash": "b020cd35dacddee9ec0f",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-linked-list-0-fc-2b6.b020cd35dacddee9ec0f.js"
         }
       ]
     },
     "12": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-matrix-687-41e.86c0fc35e7292b4d7a37.js",
-          "hash": "86c0fc35e7292b4d7a37",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-matrix-687-41e.86c0fc35e7292b4d7a37.js"
+          "file": "content---tech-interview-handbook-algorithms-math-3-ba-1f3.7d7074140f0d887ad104.js",
+          "hash": "7d7074140f0d887ad104",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-math-3-ba-1f3.7d7074140f0d887ad104.js"
         }
       ]
     },
     "13": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-oop-6-fc-79a.5ca969de8f2ebda8577b.js",
-          "hash": "5ca969de8f2ebda8577b",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-oop-6-fc-79a.5ca969de8f2ebda8577b.js"
+          "file": "content---tech-interview-handbook-algorithms-matrix-687-41e.968b9cf6d402fa1ba227.js",
+          "hash": "968b9cf6d402fa1ba227",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-matrix-687-41e.968b9cf6d402fa1ba227.js"
         }
       ]
     },
     "14": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-permutationa-83-69a.bf7e826f2df386d24d56.js",
-          "hash": "bf7e826f2df386d24d56",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-permutationa-83-69a.bf7e826f2df386d24d56.js"
+          "file": "content---tech-interview-handbook-algorithms-oop-6-fc-79a.6c30181d6c890ed5799b.js",
+          "hash": "6c30181d6c890ed5799b",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-oop-6-fc-79a.6c30181d6c890ed5799b.js"
         }
       ]
     },
     "15": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-queue-8-d-7-723.ab1d30e189d3d44ed783.js",
-          "hash": "ab1d30e189d3d44ed783",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-queue-8-d-7-723.ab1d30e189d3d44ed783.js"
+          "file": "content---tech-interview-handbook-algorithms-permutationa-83-69a.daeb1678c102578204df.js",
+          "hash": "daeb1678c102578204df",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-permutationa-83-69a.daeb1678c102578204df.js"
         }
       ]
     },
     "16": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-readme-2-e-0-569.fb3c2e612eec25c97b92.js",
-          "hash": "fb3c2e612eec25c97b92",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-readme-2-e-0-569.fb3c2e612eec25c97b92.js"
+          "file": "content---tech-interview-handbook-algorithms-queue-8-d-7-723.4dea24852673cb98faa6.js",
+          "hash": "4dea24852673cb98faa6",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-queue-8-d-7-723.4dea24852673cb98faa6.js"
         }
       ]
     },
     "17": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-sorting-searching-6-ab-676.7e7246e9d6a2215a7417.js",
-          "hash": "7e7246e9d6a2215a7417",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-sorting-searching-6-ab-676.7e7246e9d6a2215a7417.js"
+          "file": "content---tech-interview-handbook-algorithms-recursionb-36-6c7.69bca306e52002a85e7a.js",
+          "hash": "69bca306e52002a85e7a",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-recursionb-36-6c7.69bca306e52002a85e7a.js"
         }
       ]
     },
     "18": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-stack-3-fe-6f2.3d57391467709e61a7c0.js",
-          "hash": "3d57391467709e61a7c0",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-stack-3-fe-6f2.3d57391467709e61a7c0.js"
+          "file": "content---tech-interview-handbook-algorithms-sorting-searching-6-ab-676.8d313376aab5d6708c3e.js",
+          "hash": "8d313376aab5d6708c3e",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-sorting-searching-6-ab-676.8d313376aab5d6708c3e.js"
         }
       ]
     },
     "19": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-string-318-69c.84266f4d953d15d8fcc8.js",
-          "hash": "84266f4d953d15d8fcc8",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-string-318-69c.84266f4d953d15d8fcc8.js"
+          "file": "content---tech-interview-handbook-algorithms-stack-3-fe-6f2.6c8ff4406932075c85f0.js",
+          "hash": "6c8ff4406932075c85f0",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-stack-3-fe-6f2.6c8ff4406932075c85f0.js"
         }
       ]
     },
     "20": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-topics-47-c-428.1abc3dbf4064ef140eb3.js",
-          "hash": "1abc3dbf4064ef140eb3",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-topics-47-c-428.1abc3dbf4064ef140eb3.js"
+          "file": "content---tech-interview-handbook-algorithms-string-318-69c.36e4f76cf813b13d6184.js",
+          "hash": "36e4f76cf813b13d6184",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-string-318-69c.36e4f76cf813b13d6184.js"
         }
       ]
     },
     "21": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-algorithms-tree-686-389.48f1ded3ddbe59dcc4a3.js",
-          "hash": "48f1ded3ddbe59dcc4a3",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-tree-686-389.48f1ded3ddbe59dcc4a3.js"
+          "file": "content---tech-interview-handbook-algorithms-topics-47-c-428.a17ce54398b007f6aebe.js",
+          "hash": "a17ce54398b007f6aebe",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-topics-47-c-428.a17ce54398b007f6aebe.js"
         }
       ]
     },
     "22": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-behaviorale-91-8b0.3eb3f78cb60e9eda2add.js",
-          "hash": "3eb3f78cb60e9eda2add",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-behaviorale-91-8b0.3eb3f78cb60e9eda2add.js"
+          "file": "content---tech-interview-handbook-algorithms-tree-686-389.4782f8f93c74b65dd31b.js",
+          "hash": "4782f8f93c74b65dd31b",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-tree-686-389.4782f8f93c74b65dd31b.js"
         }
       ]
     },
     "23": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-cheatsheeta-40-7bf.7766838eba7f2858145a.js",
-          "hash": "7766838eba7f2858145a",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-cheatsheeta-40-7bf.7766838eba7f2858145a.js"
+          "file": "content---tech-interview-handbook-algorithms-triea-9-e-72b.6c883889320dc4a1db05.js",
+          "hash": "6c883889320dc4a1db05",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-algorithms-triea-9-e-72b.6c883889320dc4a1db05.js"
         }
       ]
     },
     "24": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-cover-letter-93-b-b7e.5e416818e4beaba8e2ae.js",
-          "hash": "5e416818e4beaba8e2ae",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-cover-letter-93-b-b7e.5e416818e4beaba8e2ae.js"
+          "file": "content---tech-interview-handbook-cheatsheeta-40-7bf.54d7a36ade06882ea24c.js",
+          "hash": "54d7a36ade06882ea24c",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-cheatsheeta-40-7bf.54d7a36ade06882ea24c.js"
         }
       ]
     },
     "25": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-interview-formats-259-54f.c860d1f88824e61c7400.js",
-          "hash": "c860d1f88824e61c7400",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-interview-formats-259-54f.c860d1f88824e61c7400.js"
+          "file": "content---tech-interview-handbook-coding-round-overview-9-a-6-61b.b9c69e828ccf9fc21fad.js",
+          "hash": "b9c69e828ccf9fc21fad",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-coding-round-overview-9-a-6-61b.b9c69e828ccf9fc21fad.js"
         }
       ]
     },
     "26": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-introduction-5-b-9-625.d1e3b2b0f6a492ce0f3c.js",
-          "hash": "d1e3b2b0f6a492ce0f3c",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-introduction-5-b-9-625.d1e3b2b0f6a492ce0f3c.js"
+          "file": "content---tech-interview-handbook-coding-round-phases-1-eb-886.46d84b00195bb2f000cc.js",
+          "hash": "46d84b00195bb2f000cc",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-coding-round-phases-1-eb-886.46d84b00195bb2f000cc.js"
         }
       ]
     },
     "27": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-negotiation-0-cd-eb5.04fe14d39d8d994f001a.js",
-          "hash": "04fe14d39d8d994f001a",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-negotiation-0-cd-eb5.04fe14d39d8d994f001a.js"
+          "file": "content---tech-interview-handbook-cover-letter-93-b-b7e.ca944271de2457797969.js",
+          "hash": "ca944271de2457797969",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-cover-letter-93-b-b7e.ca944271de2457797969.js"
         }
       ]
     },
     "28": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-psychological-tricks-033-cbc.7100b8c2d60475cbaba7.js",
-          "hash": "7100b8c2d60475cbaba7",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-psychological-tricks-033-cbc.7100b8c2d60475cbaba7.js"
+          "file": "content---tech-interview-handbook-how-to-apply-493-bf8.bb3e2444ff1dd626e18d.js",
+          "hash": "bb3e2444ff1dd626e18d",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-how-to-apply-493-bf8.bb3e2444ff1dd626e18d.js"
         }
       ]
     },
     "29": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-questions-to-ask-1-b-5-38d.aed628f6b796109cb77b.js",
-          "hash": "aed628f6b796109cb77b",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-questions-to-ask-1-b-5-38d.aed628f6b796109cb77b.js"
+          "file": "content---tech-interview-handbook-interview-stagesb-04-cd1.5f9cba6d90ff095713c9.js",
+          "hash": "5f9cba6d90ff095713c9",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-interview-stagesb-04-cd1.5f9cba6d90ff095713c9.js"
         }
       ]
     },
     "30": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-resume-0-ca-720.ebae0004c0f9d7e21018.js",
-          "hash": "ebae0004c0f9d7e21018",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-resume-0-ca-720.ebae0004c0f9d7e21018.js"
+          "file": "content---tech-interview-handbook-introduction-5-b-9-625.a297046985243e7f1587.js",
+          "hash": "a297046985243e7f1587",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-introduction-5-b-9-625.a297046985243e7f1587.js"
         }
       ]
     },
     "31": {
       "js": [
         {
-          "file": "content---tech-interview-handbook-self-introduction-52-d-8b5.e2eead22e20536c67d1a.js",
-          "hash": "e2eead22e20536c67d1a",
-          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-self-introduction-52-d-8b5.e2eead22e20536c67d1a.js"
+          "file": "content---tech-interview-handbook-mock-interviews-78-d-823.4890710b8aae35848433.js",
+          "hash": "4890710b8aae35848433",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-mock-interviews-78-d-823.4890710b8aae35848433.js"
         }
       ]
     },
     "32": {
       "js": [
         {
-          "file": "docsMetadata---tech-interview-handbook-461-c2e.b0ced39ab07f78c3bf54.js",
-          "hash": "b0ced39ab07f78c3bf54",
-          "publicPath": "/tech-interview-handbook/docsMetadata---tech-interview-handbook-461-c2e.b0ced39ab07f78c3bf54.js"
+          "file": "content---tech-interview-handbook-negotiation-0-cd-eb5.8993de8589d400f113bf.js",
+          "hash": "8993de8589d400f113bf",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-negotiation-0-cd-eb5.8993de8589d400f113bf.js"
         }
       ]
     },
     "33": {
-      "css": [
-        {
-          "file": "main.468899c030e116681ad9.css",
-          "hash": "468899c030e116681ad9",
-          "publicPath": "/tech-interview-handbook/main.468899c030e116681ad9.css"
-        }
-      ],
       "js": [
         {
-          "file": "main.468899c030e116681ad9.js",
-          "hash": "468899c030e116681ad9",
-          "publicPath": "/tech-interview-handbook/main.468899c030e116681ad9.js"
+          "file": "content---tech-interview-handbook-picking-a-languagefc-0-a48.1d9a3e7732baa5d8f248.js",
+          "hash": "1d9a3e7732baa5d8f248",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-picking-a-languagefc-0-a48.1d9a3e7732baa5d8f248.js"
         }
       ]
     },
     "34": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-878-66d.f2010f7b9c0571b138ee.js",
-          "hash": "f2010f7b9c0571b138ee",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-878-66d.f2010f7b9c0571b138ee.js"
+          "file": "content---tech-interview-handbook-psychological-tricks-033-cbc.79b347e10590f04835b0.js",
+          "hash": "79b347e10590f04835b0",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-psychological-tricks-033-cbc.79b347e10590f04835b0.js"
         }
       ]
     },
     "35": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-array-872-b0a.fd0bb0e30b3e21f19b19.js",
-          "hash": "fd0bb0e30b3e21f19b19",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-array-872-b0a.fd0bb0e30b3e21f19b19.js"
+          "file": "content---tech-interview-handbook-questions-to-ask-1-b-5-38d.c6f10c16ed8b06845468.js",
+          "hash": "c6f10c16ed8b06845468",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-questions-to-ask-1-b-5-38d.c6f10c16ed8b06845468.js"
         }
       ]
     },
     "36": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-binary-775-e8d.5b05a0ffb6b7005064e3.js",
-          "hash": "5b05a0ffb6b7005064e3",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-binary-775-e8d.5b05a0ffb6b7005064e3.js"
+          "file": "content---tech-interview-handbook-resume-0-ca-720.a0bd7a72bb60da20bc6a.js",
+          "hash": "a0bd7a72bb60da20bc6a",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-resume-0-ca-720.a0bd7a72bb60da20bc6a.js"
         }
       ]
     },
     "37": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-dynamic-programminge-00-d9c.42289849d163fa3ed2e1.js",
-          "hash": "42289849d163fa3ed2e1",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-dynamic-programminge-00-d9c.42289849d163fa3ed2e1.js"
+          "file": "content---tech-interview-handbook-self-introduction-52-d-8b5.cc569145861e044856ec.js",
+          "hash": "cc569145861e044856ec",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-self-introduction-52-d-8b5.cc569145861e044856ec.js"
         }
       ]
     },
     "38": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-geometryf-27-184.7472a0eb505f6a17cfb8.js",
-          "hash": "7472a0eb505f6a17cfb8",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-geometryf-27-184.7472a0eb505f6a17cfb8.js"
+          "file": "content---tech-interview-handbook-star-frameworkb-5-c-1c3.0caf373427f6aef10474.js",
+          "hash": "0caf373427f6aef10474",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-star-frameworkb-5-c-1c3.0caf373427f6aef10474.js"
         }
       ]
     },
     "39": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-graphf-60-319.e5a19b44d2ede045add5.js",
-          "hash": "e5a19b44d2ede045add5",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-graphf-60-319.e5a19b44d2ede045add5.js"
+          "file": "content---tech-interview-handbook-study-and-practice-515-28e.8bb71b2ce91ef6da372b.js",
+          "hash": "8bb71b2ce91ef6da372b",
+          "publicPath": "/tech-interview-handbook/content---tech-interview-handbook-study-and-practice-515-28e.8bb71b2ce91ef6da372b.js"
         }
       ]
     },
     "40": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-hash-tablebb-2-abb.aa3b6ab0711f152c7b6b.js",
-          "hash": "aa3b6ab0711f152c7b6b",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-hash-tablebb-2-abb.aa3b6ab0711f152c7b6b.js"
+          "file": "docsMetadata---tech-interview-handbook-461-c2e.8d35a05f06cfb8ac253d.js",
+          "hash": "8d35a05f06cfb8ac253d",
+          "publicPath": "/tech-interview-handbook/docsMetadata---tech-interview-handbook-461-c2e.8d35a05f06cfb8ac253d.js"
         }
       ]
     },
     "41": {
+      "css": [
+        {
+          "file": "main.fbc3f50f64864fe9fc7d.css",
+          "hash": "fbc3f50f64864fe9fc7d",
+          "publicPath": "/tech-interview-handbook/main.fbc3f50f64864fe9fc7d.css"
+        }
+      ],
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-heap-2-dd-64c.7582d0ae68f5bf1ddc5e.js",
-          "hash": "7582d0ae68f5bf1ddc5e",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-heap-2-dd-64c.7582d0ae68f5bf1ddc5e.js"
+          "file": "main.fbc3f50f64864fe9fc7d.js",
+          "hash": "fbc3f50f64864fe9fc7d",
+          "publicPath": "/tech-interview-handbook/main.fbc3f50f64864fe9fc7d.js"
         }
       ]
     },
     "42": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-intervale-31-608.c2b2ec461275cc6003ad.js",
-          "hash": "c2b2ec461275cc6003ad",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-intervale-31-608.c2b2ec461275cc6003ad.js"
+          "file": "metadata---tech-interview-handbook-878-66d.a632888a2d75fad47671.js",
+          "hash": "a632888a2d75fad47671",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-878-66d.a632888a2d75fad47671.js"
         }
       ]
     },
     "43": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-linked-listefb-7c2.23a7ff30eb5e2c919d11.js",
-          "hash": "23a7ff30eb5e2c919d11",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-linked-listefb-7c2.23a7ff30eb5e2c919d11.js"
+          "file": "metadata---tech-interview-handbook-algorithms-algorithms-introductiond-5-f-718.7f0108da7144d3d3823c.js",
+          "hash": "7f0108da7144d3d3823c",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-algorithms-introductiond-5-f-718.7f0108da7144d3d3823c.js"
         }
       ]
     },
     "44": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-mathcb-4-f28.528bbc4e621270d2ddef.js",
-          "hash": "528bbc4e621270d2ddef",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-mathcb-4-f28.528bbc4e621270d2ddef.js"
+          "file": "metadata---tech-interview-handbook-algorithms-array-872-b0a.bca968a694b3219fe53b.js",
+          "hash": "bca968a694b3219fe53b",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-array-872-b0a.bca968a694b3219fe53b.js"
         }
       ]
     },
     "45": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-matrixe-14-94a.92ecd6d5bb3cfd9b6872.js",
-          "hash": "92ecd6d5bb3cfd9b6872",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-matrixe-14-94a.92ecd6d5bb3cfd9b6872.js"
+          "file": "metadata---tech-interview-handbook-algorithms-binary-775-e8d.e679ee4d47f24217ee7e.js",
+          "hash": "e679ee4d47f24217ee7e",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-binary-775-e8d.e679ee4d47f24217ee7e.js"
         }
       ]
     },
     "46": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-oopacc-e06.8bc894d141b81a36d603.js",
-          "hash": "8bc894d141b81a36d603",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-oopacc-e06.8bc894d141b81a36d603.js"
+          "file": "metadata---tech-interview-handbook-algorithms-dynamic-programminge-00-d9c.fc71ecd08047111b65a9.js",
+          "hash": "fc71ecd08047111b65a9",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-dynamic-programminge-00-d9c.fc71ecd08047111b65a9.js"
         }
       ]
     },
     "47": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-permutationc-36-359.0b9b23176928cb6aa581.js",
-          "hash": "0b9b23176928cb6aa581",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-permutationc-36-359.0b9b23176928cb6aa581.js"
+          "file": "metadata---tech-interview-handbook-algorithms-geometryf-27-184.7b29b34b8f751bb776ea.js",
+          "hash": "7b29b34b8f751bb776ea",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-geometryf-27-184.7b29b34b8f751bb776ea.js"
         }
       ]
     },
     "48": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-queueac-0-3e8.9ffa235e05664f3fd1a8.js",
-          "hash": "9ffa235e05664f3fd1a8",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-queueac-0-3e8.9ffa235e05664f3fd1a8.js"
+          "file": "metadata---tech-interview-handbook-algorithms-graphf-60-319.edb04893aa99b4eaa517.js",
+          "hash": "edb04893aa99b4eaa517",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-graphf-60-319.edb04893aa99b4eaa517.js"
         }
       ]
     },
     "49": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-readm-ecd-9-3ba.3ad4571b0aac10e81b24.js",
-          "hash": "3ad4571b0aac10e81b24",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-readm-ecd-9-3ba.3ad4571b0aac10e81b24.js"
+          "file": "metadata---tech-interview-handbook-algorithms-hash-tablebb-2-abb.2cfb458bd876c5b305d8.js",
+          "hash": "2cfb458bd876c5b305d8",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-hash-tablebb-2-abb.2cfb458bd876c5b305d8.js"
         }
       ]
     },
     "50": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-sorting-searchingc-6-c-0ef.171e54cfb878b73cd6b8.js",
-          "hash": "171e54cfb878b73cd6b8",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-sorting-searchingc-6-c-0ef.171e54cfb878b73cd6b8.js"
+          "file": "metadata---tech-interview-handbook-algorithms-heap-2-dd-64c.ec8fd221f06376a9f9ef.js",
+          "hash": "ec8fd221f06376a9f9ef",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-heap-2-dd-64c.ec8fd221f06376a9f9ef.js"
         }
       ]
     },
     "51": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-stackd-94-9fa.e34acac00e984b99b824.js",
-          "hash": "e34acac00e984b99b824",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-stackd-94-9fa.e34acac00e984b99b824.js"
+          "file": "metadata---tech-interview-handbook-algorithms-intervale-31-608.af569e3745dd62223405.js",
+          "hash": "af569e3745dd62223405",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-intervale-31-608.af569e3745dd62223405.js"
         }
       ]
     },
     "52": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-stringe-61-ea3.4f30fae8d2096e641a99.js",
-          "hash": "4f30fae8d2096e641a99",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-stringe-61-ea3.4f30fae8d2096e641a99.js"
+          "file": "metadata---tech-interview-handbook-algorithms-linked-listefb-7c2.4cf5cbc11d85f8c1b633.js",
+          "hash": "4cf5cbc11d85f8c1b633",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-linked-listefb-7c2.4cf5cbc11d85f8c1b633.js"
         }
       ]
     },
     "53": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-topics-94-f-194.8c314056fad8b4976869.js",
-          "hash": "8c314056fad8b4976869",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-topics-94-f-194.8c314056fad8b4976869.js"
+          "file": "metadata---tech-interview-handbook-algorithms-mathcb-4-f28.8d6e636f644ebde8e338.js",
+          "hash": "8d6e636f644ebde8e338",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-mathcb-4-f28.8d6e636f644ebde8e338.js"
         }
       ]
     },
     "54": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-algorithms-tree-02-d-b48.14e5eab4970f94d07e05.js",
-          "hash": "14e5eab4970f94d07e05",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-tree-02-d-b48.14e5eab4970f94d07e05.js"
+          "file": "metadata---tech-interview-handbook-algorithms-matrixe-14-94a.68ef89dd95b935c631b3.js",
+          "hash": "68ef89dd95b935c631b3",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-matrixe-14-94a.68ef89dd95b935c631b3.js"
         }
       ]
     },
     "55": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-behaviorale-85-4b2.84ed4136f1f1766f5d69.js",
-          "hash": "84ed4136f1f1766f5d69",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-behaviorale-85-4b2.84ed4136f1f1766f5d69.js"
+          "file": "metadata---tech-interview-handbook-algorithms-oopacc-e06.ccea583f3ccf54fc6ac6.js",
+          "hash": "ccea583f3ccf54fc6ac6",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-oopacc-e06.ccea583f3ccf54fc6ac6.js"
         }
       ]
     },
     "56": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-cheatsheet-25-f-2c1.964ae597da2b78ed8342.js",
-          "hash": "964ae597da2b78ed8342",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-cheatsheet-25-f-2c1.964ae597da2b78ed8342.js"
+          "file": "metadata---tech-interview-handbook-algorithms-permutationc-36-359.6e04e96745ef5e83ac5d.js",
+          "hash": "6e04e96745ef5e83ac5d",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-permutationc-36-359.6e04e96745ef5e83ac5d.js"
         }
       ]
     },
     "57": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-cover-letterdec-f1c.953aef3c700dc23a373c.js",
-          "hash": "953aef3c700dc23a373c",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-cover-letterdec-f1c.953aef3c700dc23a373c.js"
+          "file": "metadata---tech-interview-handbook-algorithms-queueac-0-3e8.d6c5c0e4345b70a0d2fd.js",
+          "hash": "d6c5c0e4345b70a0d2fd",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-queueac-0-3e8.d6c5c0e4345b70a0d2fd.js"
         }
       ]
     },
     "58": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-interview-formats-1-f-5-9c1.38adfaedd07b3807fb7e.js",
-          "hash": "38adfaedd07b3807fb7e",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-interview-formats-1-f-5-9c1.38adfaedd07b3807fb7e.js"
+          "file": "metadata---tech-interview-handbook-algorithms-recursion-351-af6.1f5cdb245e7eb9805ca4.js",
+          "hash": "1f5cdb245e7eb9805ca4",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-recursion-351-af6.1f5cdb245e7eb9805ca4.js"
         }
       ]
     },
     "59": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-introduction-1-f-6-29e.fa80d837bea22d86e0d4.js",
-          "hash": "fa80d837bea22d86e0d4",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-introduction-1-f-6-29e.fa80d837bea22d86e0d4.js"
+          "file": "metadata---tech-interview-handbook-algorithms-sorting-searchingc-6-c-0ef.571386c9202ff7940533.js",
+          "hash": "571386c9202ff7940533",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-sorting-searchingc-6-c-0ef.571386c9202ff7940533.js"
         }
       ]
     },
     "60": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-negotiation-860-ba7.e7e61e159ebb30acc76a.js",
-          "hash": "e7e61e159ebb30acc76a",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-negotiation-860-ba7.e7e61e159ebb30acc76a.js"
+          "file": "metadata---tech-interview-handbook-algorithms-stackd-94-9fa.6c93815545d61eb4a526.js",
+          "hash": "6c93815545d61eb4a526",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-stackd-94-9fa.6c93815545d61eb4a526.js"
         }
       ]
     },
     "61": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-psychological-tricks-138-3b7.1ff71e329108ca12be7a.js",
-          "hash": "1ff71e329108ca12be7a",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-psychological-tricks-138-3b7.1ff71e329108ca12be7a.js"
+          "file": "metadata---tech-interview-handbook-algorithms-stringe-61-ea3.531589b2f843c203be5e.js",
+          "hash": "531589b2f843c203be5e",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-stringe-61-ea3.531589b2f843c203be5e.js"
         }
       ]
     },
     "62": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-questions-to-ask-7-aa-7fe.3bfee0e876c5e4713100.js",
-          "hash": "3bfee0e876c5e4713100",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-questions-to-ask-7-aa-7fe.3bfee0e876c5e4713100.js"
+          "file": "metadata---tech-interview-handbook-algorithms-topics-94-f-194.01970602a77219b14227.js",
+          "hash": "01970602a77219b14227",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-topics-94-f-194.01970602a77219b14227.js"
         }
       ]
     },
     "63": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-resume-3-bc-62b.24ec311bc978caa9ce53.js",
-          "hash": "24ec311bc978caa9ce53",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-resume-3-bc-62b.24ec311bc978caa9ce53.js"
+          "file": "metadata---tech-interview-handbook-algorithms-tree-02-d-b48.c93988fa082eb8259cde.js",
+          "hash": "c93988fa082eb8259cde",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-tree-02-d-b48.c93988fa082eb8259cde.js"
         }
       ]
     },
     "64": {
       "js": [
         {
-          "file": "metadata---tech-interview-handbook-self-introduction-159-826.b78ac0e493eca2a09e10.js",
-          "hash": "b78ac0e493eca2a09e10",
-          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-self-introduction-159-826.b78ac0e493eca2a09e10.js"
+          "file": "metadata---tech-interview-handbook-algorithms-trie-561-fa5.8ac1520cecb7ede5521c.js",
+          "hash": "8ac1520cecb7ede5521c",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-algorithms-trie-561-fa5.8ac1520cecb7ede5521c.js"
         }
       ]
     },
     "65": {
       "js": [
         {
-          "file": "runtime~main.fb3f0b362ac10f77aecc.js",
-          "hash": "fb3f0b362ac10f77aecc",
-          "publicPath": "/tech-interview-handbook/runtime~main.fb3f0b362ac10f77aecc.js"
+          "file": "metadata---tech-interview-handbook-cheatsheet-25-f-2c1.cee176cb1c4a83b09f4d.js",
+          "hash": "cee176cb1c4a83b09f4d",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-cheatsheet-25-f-2c1.cee176cb1c4a83b09f4d.js"
+        }
+      ]
+    },
+    "66": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-coding-round-overview-234-6b8.7acb5b56ad21b134156e.js",
+          "hash": "7acb5b56ad21b134156e",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-coding-round-overview-234-6b8.7acb5b56ad21b134156e.js"
+        }
+      ]
+    },
+    "67": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-coding-round-phases-83-f-280.b1a4e81fd175ff4896f5.js",
+          "hash": "b1a4e81fd175ff4896f5",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-coding-round-phases-83-f-280.b1a4e81fd175ff4896f5.js"
+        }
+      ]
+    },
+    "68": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-cover-letterdec-f1c.f764a67dcc2f70d77f79.js",
+          "hash": "f764a67dcc2f70d77f79",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-cover-letterdec-f1c.f764a67dcc2f70d77f79.js"
+        }
+      ]
+    },
+    "69": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-how-to-apply-1-aa-0d8.d11503772d7b137d4a00.js",
+          "hash": "d11503772d7b137d4a00",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-how-to-apply-1-aa-0d8.d11503772d7b137d4a00.js"
+        }
+      ]
+    },
+    "70": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-interview-stagesf-6-e-110.08a5be74e1300b25dd78.js",
+          "hash": "08a5be74e1300b25dd78",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-interview-stagesf-6-e-110.08a5be74e1300b25dd78.js"
+        }
+      ]
+    },
+    "71": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-introduction-1-f-6-29e.cc45aca1e9fd3de26655.js",
+          "hash": "cc45aca1e9fd3de26655",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-introduction-1-f-6-29e.cc45aca1e9fd3de26655.js"
+        }
+      ]
+    },
+    "72": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-mock-interviews-0-e-7-55d.f6d2df34f9f80d07804a.js",
+          "hash": "f6d2df34f9f80d07804a",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-mock-interviews-0-e-7-55d.f6d2df34f9f80d07804a.js"
+        }
+      ]
+    },
+    "73": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-negotiation-860-ba7.5dd007adca9ca38386f8.js",
+          "hash": "5dd007adca9ca38386f8",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-negotiation-860-ba7.5dd007adca9ca38386f8.js"
+        }
+      ]
+    },
+    "74": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-picking-a-language-18-a-5ee.f44decf40076da1bf795.js",
+          "hash": "f44decf40076da1bf795",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-picking-a-language-18-a-5ee.f44decf40076da1bf795.js"
+        }
+      ]
+    },
+    "75": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-psychological-tricks-138-3b7.2abcbafaacafa91ab797.js",
+          "hash": "2abcbafaacafa91ab797",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-psychological-tricks-138-3b7.2abcbafaacafa91ab797.js"
+        }
+      ]
+    },
+    "76": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-questions-to-ask-7-aa-7fe.97c620710473766b91cb.js",
+          "hash": "97c620710473766b91cb",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-questions-to-ask-7-aa-7fe.97c620710473766b91cb.js"
+        }
+      ]
+    },
+    "77": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-resume-3-bc-62b.fe54d73abf190e218852.js",
+          "hash": "fe54d73abf190e218852",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-resume-3-bc-62b.fe54d73abf190e218852.js"
+        }
+      ]
+    },
+    "78": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-self-introduction-159-826.9cae418c0fb3ab42e0e0.js",
+          "hash": "9cae418c0fb3ab42e0e0",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-self-introduction-159-826.9cae418c0fb3ab42e0e0.js"
+        }
+      ]
+    },
+    "79": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-star-framework-79-e-7b6.c39d7567c4cf7626498c.js",
+          "hash": "c39d7567c4cf7626498c",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-star-framework-79-e-7b6.c39d7567c4cf7626498c.js"
+        }
+      ]
+    },
+    "80": {
+      "js": [
+        {
+          "file": "metadata---tech-interview-handbook-study-and-practicebda-d3e.2205464622b0458c47f7.js",
+          "hash": "2205464622b0458c47f7",
+          "publicPath": "/tech-interview-handbook/metadata---tech-interview-handbook-study-and-practicebda-d3e.2205464622b0458c47f7.js"
+        }
+      ]
+    },
+    "81": {
+      "js": [
+        {
+          "file": "runtime~main.e32c851f3a0658817c21.js",
+          "hash": "e32c851f3a0658817c21",
+          "publicPath": "/tech-interview-handbook/runtime~main.e32c851f3a0658817c21.js"
         }
       ]
     }
